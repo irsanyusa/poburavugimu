@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://poburavugimu.b-cdn.net/sitemap.xml
